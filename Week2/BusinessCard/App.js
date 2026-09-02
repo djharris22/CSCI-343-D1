@@ -18,7 +18,7 @@ export default function App() {
           <Text
             style={styles.text}
             onPress={() => {
-              Linking.openURL("https://outlook.cloud.microsoft/mail/")
+              Linking.openURL("mailto:djharris2@coastal.edu")
             }}
           >
             djharris2@coastal.edu
