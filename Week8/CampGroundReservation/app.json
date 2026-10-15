@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "CampGroundReservation",
+    "slug": "CampGroundReservation",
+    "version": "1.0.0",
+    "orientation": "auto",
+    "icon": "./assets/images/camping-splash.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/camping-splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/images/camping-splash.jpg"
+      },
+      "package": "com.anonymous.CampGroundReservation"
+    },
+    "web": {
+      "favicon": "./assets/images/camping-splash.jpg"
+    }
+  }
+}
